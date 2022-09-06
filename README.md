@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @revolt320
+- 👋 Hi, I’m @Rohith Rajeev
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and SQL for Data Analysis
 - 💞️ I’m looking to collaborate on Projects based on the same
