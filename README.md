@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohith Rajeev
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and SQL for Data Analysis
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Projects based on the same
 - 📫 How to reach me rohithr20000@gmail.com
 
